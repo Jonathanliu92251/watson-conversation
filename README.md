@@ -1,7 +1,7 @@
 # Application Development on Watson Conversation 
 ## List of wechat
 |Source code | Description                       | Reference |
-|:------------|:---------------------------------:|:---------|
+|:------------|:---------------------------------|:---------|
 |tuling.py | wechat robot, w/ Tuling backend API | http://www.tuling123.com|
 |tuling-specUser.py | chat service, restricted for specific wechat-usergroup| https://github.com/littlecodersh/ItChat|
 |watson-console.py | console-based example for waston-conversation|
@@ -19,7 +19,7 @@
 
 ## List of console
 |Source code | Description                       | reference |
-|:-----------|:---------------------------------:|:---------|
+|:-----------|:----------------------------------|:---------|
 |example1.js | | |
 |example2.js | | |
 |example3.js | | |
@@ -32,7 +32,7 @@ nodejs exampleX.js
 
 ## List of nodered
 |Source code | Description                       | reference |
-|:-----------|:---------------------------------:|:---------|
+|:-----------|:----------------------------------|:---------|
 |watson-debugMode.json |waston-conversation, running in debug mode | |
 |watson-sockets.json |run in web mode, socket communication | |
 
