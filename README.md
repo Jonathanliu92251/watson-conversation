@@ -45,7 +45,7 @@ nodejs exampleX.js
 
 debug: 
 - click flow (left input node)
-- https://nodered-jon001.eu-gb.mybluemix.net/testing
+- https://nodered-jon001.eu-gb.mybluemix.net/info
 
 web: 
 - https://nodered-jon001.eu-gb.mybluemix.net/testing
