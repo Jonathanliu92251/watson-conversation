@@ -1,5 +1,5 @@
 # Application Development on Watson Conversation 
-## List of wechat
+## A. List of wechat
 |Source code | Description                       | Reference |
 |:------------|:---------------------------------|:---------|
 |tuling.py | wechat robot, w/ Tuling backend API | http://www.tuling123.com|
@@ -17,7 +17,7 @@
 6. modify credentials
 7. python xx.py 
 
-## List of console
+## B. List of console
 |Source code | Description                       | reference |
 |:-----------|:----------------------------------|:---------|
 |example1.js | | |
@@ -30,7 +30,7 @@ npm install
 modify credentials
 nodejs exampleX.js
 
-## List of nodered
+## C. List of Nodered
 |Source code | Description                       | reference |
 |:-----------|:----------------------------------|:---------|
 |watson-debugMode.json |waston-conversation, running in debug mode | |
@@ -42,9 +42,11 @@ nodejs exampleX.js
 3. launch node-red application -- web designer
 4. import flow from above json
 5. modifiy 'conversation' node property in these flow
+
 debug: 
 - click flow (left input node)
 - https://nodered-jon001.eu-gb.mybluemix.net/testing
+
 web: 
 - https://nodered-jon001.eu-gb.mybluemix.net/testing
 
